@@ -7,7 +7,7 @@ Saya memiliki ketertarikan dan kemampuan di bidang **Web Development**, terutama
 💡 **Tentang Saya:**
 - 🎓 Lulusan **Sistem Informasi** dengan fokus pada pengembangan sistem dan pemrograman web.
 - 🌱 Sedang mengasah skill **Fullstack Web Development** (Frontend & Backend).
-- 💻 Terbiasa menggunakan **HTML, CSS, JavaScript, PHP, dan Laravel**.
+- 💻 Terbiasa menggunakan **HTML, CSS, JavaScript, PHP, Codeigniter, Laravel, dan .Net Framework**.
 - 📚 Suka mempelajari teknologi baru dan mengerjakan project pribadi sebagai portofolio.
 - 🚀 Saat ini **sedang mencari peluang kerja** di bidang Web Developer.
 
