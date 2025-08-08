@@ -1,7 +1,7 @@
 # Halo semua! 👋
 
 Perkenalkan, nama saya **Zulkarnain**  
-Saya adalah **Fresh Graduate** dari Program Studi **Sistem Informasi** yang baru lulus pada semester ini.  
+Saya adalah **Under Graduate** dari Program Studi **Sistem Informasi** yang baru lulus pada semester ini.  
 Saya memiliki ketertarikan dan kemampuan di bidang **Web Development**, terutama pada pengembangan aplikasi berbasis web.
 
 💡 **Tentang Saya:**
